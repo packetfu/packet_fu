@@ -1,0 +1,10 @@
+*.gem
+*.swp
+*~
+doc/
+.yardoc/
+pkg/
+Gemfile.lock
+.ruby-gemset*
+.ruby-version*
+coverage
